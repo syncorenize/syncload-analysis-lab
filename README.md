@@ -57,7 +57,7 @@ RequestID,URL,Method,RequestHeaders,RequestBodySize,StartTime,EndTime,ResponseTi
 
 All sample data is anonymized or synthetic. 
 
-See [`datasets/sample.csv`](datasets/sample_1.csv) for a full example. 
+See [`datasets/sample_1.csv`](datasets/sample_1.csv) for a full example. 
 
 --- 
 
